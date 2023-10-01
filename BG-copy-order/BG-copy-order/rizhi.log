@@ -1,0 +1,84 @@
+2023-09-28 14:12:52,893 - __main__ - INFO - 正在获取余额。
+2023-09-28 14:12:52,894 - __main__ - INFO - Sending request to https://api.bitget.com with headers: {'ACCESS-KEY': 'bg_e388682dbfb52acc850e5fb4cd48d7dd', 'ACCESS-SIGN': 'iNSeWDNXv8S4DXx0W7l6wnsnIRNJaDowjv7HHH1XNS4=', 'ACCESS-TIMESTAMP': '1695881572894', 'ACCESS-PASSPHRASE': 'Aa123456', 'locale': 'en-US', 'Content-Type': 'application/json'}
+2023-09-28 14:12:53,153 - __main__ - INFO - Received response: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+
+2023-09-28 14:12:53,454 - __main__ - INFO - 可用数量: 475.46043287
+2023-09-28 14:12:53,982 - __main__ - INFO - 正在获取余额。
+2023-09-28 14:12:53,983 - __main__ - INFO - Sending request to https://api.bitget.com with headers: {'ACCESS-KEY': 'bg_e388682dbfb52acc850e5fb4cd48d7dd', 'ACCESS-SIGN': 'gfvuu7ary8+04SuKmmDODP50r7882ykDq9ZzlEPX92c=', 'ACCESS-TIMESTAMP': '1695881573983', 'ACCESS-PASSPHRASE': 'Aa123456', 'locale': 'en-US', 'Content-Type': 'application/json'}
+2023-09-28 14:12:54,256 - __main__ - INFO - Received response: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+
+2023-09-28 14:12:54,552 - __main__ - INFO - 可用数量: 475.46043287
+2023-09-28 14:18:26,884 - __main__ - INFO - 正在获取余额。
+2023-09-28 14:18:26,884 - __main__ - INFO - Sending request to https://api.bitget.com with headers: {'ACCESS-KEY': 'bg_e388682dbfb52acc850e5fb4cd48d7dd', 'ACCESS-SIGN': 'wVrz/t7GYbUiPMNRB3IdVVlTzUya1fFkTg1opZjnqwo=', 'ACCESS-TIMESTAMP': '1695881906884', 'ACCESS-PASSPHRASE': 'Aa123456', 'locale': 'en-US', 'Content-Type': 'application/json'}
+2023-09-28 14:18:27,178 - __main__ - INFO - Received response: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+
+2023-09-28 14:18:27,499 - __main__ - INFO - 可用数量: 475.46043287
+2023-09-28 14:18:28,365 - __main__ - INFO - 正在获取余额。
+2023-09-28 14:18:28,367 - __main__ - INFO - Sending request to https://api.bitget.com with headers: {'ACCESS-KEY': 'bg_e388682dbfb52acc850e5fb4cd48d7dd', 'ACCESS-SIGN': 'Ur6ot6ET2VYjntu/Usc+jW2KgfOu3BTOPy6NiJseUWQ=', 'ACCESS-TIMESTAMP': '1695881908367', 'ACCESS-PASSPHRASE': 'Aa123456', 'locale': 'en-US', 'Content-Type': 'application/json'}
+2023-09-28 14:18:28,756 - __main__ - INFO - Received response: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+
+2023-09-28 14:18:29,212 - __main__ - INFO - 可用数量: 475.46043287
+2023-09-28 14:18:44,128 - __main__ - INFO - Processing trade.
+2023-09-28 14:18:44,128 - __main__ - INFO - 正在获取余额。
+2023-09-28 14:18:44,129 - __main__ - INFO - Sending request to https://api.bitget.com with headers: {'ACCESS-KEY': 'bg_e388682dbfb52acc850e5fb4cd48d7dd', 'ACCESS-SIGN': 'NI7H542vLn1hJrK0FrsDLUkleQiOHJOMkyqa0WR+ANQ=', 'ACCESS-TIMESTAMP': '1695881924129', 'ACCESS-PASSPHRASE': 'Aa123456', 'locale': 'en-US', 'Content-Type': 'application/json'}
+2023-09-28 14:18:44,425 - __main__ - INFO - Received response: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+
+2023-09-28 14:18:44,756 - __main__ - INFO - 可用数量: 475.46043287
+2023-09-28 14:18:44,761 - __main__ - INFO - Placing order with payload: {'symbol': 'FXSUSDT_UMCBL', 'marginCoin': 'USDT', 'size': '95.092086574', 'side': 'open_short', 'orderType': 'market'}
+2023-09-28 14:18:44,762 - __main__ - INFO - Sending request to https://api.bitget.com with headers: {'ACCESS-KEY': 'bg_e388682dbfb52acc850e5fb4cd48d7dd', 'ACCESS-SIGN': 'tBXV+8Phhz/HjtU3j7h2KZs8UKyK11mntf+R89DbbgI=', 'ACCESS-TIMESTAMP': '1695881924762', 'ACCESS-PASSPHRASE': 'Aa123456', 'locale': 'en-US', 'Content-Type': 'application/json'} and data: {"symbol": "FXSUSDT_UMCBL", "marginCoin": "USDT", "size": "95.092086574", "side": "open_short", "orderType": "market"}
+2023-09-28 14:18:50,179 - __main__ - INFO - Fetching trackingNo after order placement
+2023-09-28 14:18:50,475 - __main__ - INFO - Successfully fetched trackingNo: 1091173370820153344
+2023-09-28 14:18:50,480 - __main__ - INFO - Modifying TP/SL for tracking number: 1091173370820153344
+2023-09-28 14:19:02,529 - __main__ - INFO - Processing trade.
+2023-09-28 14:19:02,530 - __main__ - INFO - Getting current order tracking number for symbol: FXSUSDT_UMCBL
+2023-09-28 14:19:02,966 - __main__ - INFO - Closing order for symbol: FXSUSDT_UMCBL with tracking number: 1091173370820153344
+2023-09-28 14:19:13,049 - __main__ - INFO - Processing trade.
+2023-09-28 14:19:13,051 - __main__ - INFO - 正在获取余额。
+2023-09-28 14:19:13,051 - __main__ - INFO - Sending request to https://api.bitget.com with headers: {'ACCESS-KEY': 'bg_e388682dbfb52acc850e5fb4cd48d7dd', 'ACCESS-SIGN': 'a8aXNIPcoFqj3IYBwJiTxAGd1AtCeHD9lkOQiWv4oYI=', 'ACCESS-TIMESTAMP': '1695881953051', 'ACCESS-PASSPHRASE': 'Aa123456', 'locale': 'en-US', 'Content-Type': 'application/json'}
+2023-09-28 14:19:13,339 - __main__ - INFO - Received response: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+
+2023-09-28 14:19:13,671 - __main__ - INFO - 可用数量: 474.41607842
+2023-09-28 14:19:13,675 - __main__ - INFO - Placing order with payload: {'symbol': 'FXSUSDT_UMCBL', 'marginCoin': 'USDT', 'size': '94.883215684', 'side': 'open_long', 'orderType': 'market'}
+2023-09-28 14:19:13,676 - __main__ - INFO - Sending request to https://api.bitget.com with headers: {'ACCESS-KEY': 'bg_e388682dbfb52acc850e5fb4cd48d7dd', 'ACCESS-SIGN': 'iQZ2MStlW45rDSUs7zZSWBtSmkbYltFetSueTMfMoNU=', 'ACCESS-TIMESTAMP': '1695881953676', 'ACCESS-PASSPHRASE': 'Aa123456', 'locale': 'en-US', 'Content-Type': 'application/json'} and data: {"symbol": "FXSUSDT_UMCBL", "marginCoin": "USDT", "size": "94.883215684", "side": "open_long", "orderType": "market"}
+2023-09-28 14:19:19,025 - __main__ - INFO - Fetching trackingNo after order placement
+2023-09-28 14:19:19,350 - __main__ - INFO - Successfully fetched trackingNo: 1091173491595137024
+2023-09-28 14:19:19,355 - __main__ - INFO - Modifying TP/SL for tracking number: 1091173491595137024
+2023-09-28 14:19:25,942 - __main__ - INFO - Processing trade.
+2023-09-28 14:19:25,944 - __main__ - INFO - Getting current order tracking number for symbol: FXSUSDT_UMCBL
+2023-09-28 14:19:26,310 - __main__ - INFO - Closing order for symbol: FXSUSDT_UMCBL with tracking number: 1091173491595137024
